@@ -1,0 +1,72 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Kiss me - Shortened",
+  "_songSubName" : "",
+  "_songAuthorName" : "vampyx ",
+  "_levelAuthorName" : "Glacinefrox Gameplay",
+  "_beatsPerMinute" : 155,
+  "_previewStartTime" : 39,
+  "_previewDuration" : 10,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_coverImageFilename" : "cover.jpg",
+  "_songFilename" : "vampyx - kiss me_128_shortened.ogg",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+  ],
+  "_colorSchemes" : [
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.11.793"
+      }
+    }
+  },
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "Easy",
+          "_difficultyRank" : 1,
+          "_beatmapFilename" : "EasyStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "Hard",
+          "_difficultyRank" : 5,
+          "_beatmapFilename" : "HardStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "Expert",
+          "_difficultyRank" : 7,
+          "_beatmapFilename" : "ExpertStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : 0,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        },
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 16,
+          "_noteJumpStartBeatOffset" : -0.054,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0
+        }
+      ]
+    }
+  ]
+}

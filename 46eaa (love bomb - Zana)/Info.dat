@@ -1,0 +1,54 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "love bomb",
+  "_songSubName" : "",
+  "_songAuthorName" : "d3r",
+  "_levelAuthorName" : "Zana",
+  "_beatsPerMinute" : 142,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_previewStartTime" : 12,
+  "_previewDuration" : 10,
+  "_songFilename" : "01 D3R - love bomb.egg",
+  "_coverImageFilename" : "bb54c0dcf8d1d80b237aab1ed93c486e.jpg",
+  "_environmentName" : "BigMirrorEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "BigMirrorEnvironment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 17.5,
+          "_noteJumpStartBeatOffset" : -0.95,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_colorLeft" : {"r":1,"g":0,"b":0},
+            "_colorRight" : {"r":0,"g":0.324,"b":1},
+            "_obstacleColor" : {"r":0.288,"g":0.288,"b":0.288},
+            "_envColorLeft" : {"r":0.642,"g":0.22,"b":0.809},
+            "_envColorRight" : {"r":0.557,"g":0.558,"b":0.562},
+            "_envColorWhite" : {"r":1,"g":1,"b":1}
+          }
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

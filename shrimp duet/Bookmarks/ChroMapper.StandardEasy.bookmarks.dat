@@ -1,0 +1,58 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "Easy",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 1.75,
+      "label" : "PI PU PA PI PI",
+      "text" : "PI PU PA PI PI"
+    },
+    {
+      "beat" : 5.75,
+      "label" : "PI PU PA PI PU PO",
+      "text" : "PI PU PA PI PU PO"
+    },
+    {
+      "beat" : 9.75,
+      "label" : "PI PU PA PI PE PO",
+      "text" : "PI PU PA PI PE PO"
+    },
+    {
+      "beat" : 13.75,
+      "label" : "PA PI PU PI PE PA",
+      "text" : "PA PI PU PI PE PA"
+    },
+    {
+      "beat" : 17.75,
+      "label" : "PI PA PU PE TO PI PI PI PI NE TO",
+      "text" : "PI PA PU PE TO PI PI PI PI NE TO"
+    },
+    {
+      "beat" : 25.75,
+      "label" : "PI PA PU NE TO PI PA PE PU PO PI",
+      "text" : "PI PA PU NE TO PI PA PE PU PO PI"
+    },
+    {
+      "beat" : 33.75,
+      "label" : "PI PU PA PI PE PI PA PI PE PI PA PI NE TO",
+      "text" : "PI PU PA PI PE PI PA PI PE PI PA PI NE TO"
+    },
+    {
+      "beat" : 41.75,
+      "label" : "PI PU PA PI PE PI PA PI PE PI PA TU NA TO",
+      "text" : "PI PU PA PI PE PI PA PI PE PI PA TU NA TO"
+    },
+    {
+      "beat" : 49.75,
+      "label" : "PI PA PU PE PI PA PI",
+      "text" : "PI PA PU PE PI PA PI"
+    },
+    {
+      "beat" : 57.75,
+      "label" : "PI PA PU PE PI PO PA - TO",
+      "text" : "PI PA PU PE PI PO PA - TO"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "EYES ON ME",
+    "subTitle" : "",
+    "author" : ""
+  },
+  "audio" : {
+    "songFilename" : "EYES ON ME.ogg",
+    "songDuration" : 118.323,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 143,
+    "lufs" : 0,
+    "previewStartTime" : 12,
+    "previewDuration" : 10
+  },
+  "songPreviewFilename" : "EYES ON ME.ogg",
+  "coverImageFilename" : "cover.png",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 16,
+      "noteJumpStartBeatOffset" : -1.032,
+      "beatmapDataFilename" : "ExpertPlusStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "suggestions" : [
+          "Chroma"
+        ]
+      }
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

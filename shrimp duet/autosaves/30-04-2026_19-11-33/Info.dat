@@ -1,0 +1,50 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "shrimp duet",
+    "subTitle" : "Shrimp Trumpet",
+    "author" : "justan oval"
+  },
+  "audio" : {
+    "songFilename" : "shrimp duet.ogg",
+    "songDuration" : 33.1,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 120,
+    "lufs" : 0,
+    "previewStartTime" : 12.7,
+    "previewDuration" : 12
+  },
+  "songPreviewFilename" : "shrimp duet.ogg",
+  "coverImageFilename" : "shrimptrumpet.png",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "Easy",
+      "beatmapAuthors" : {
+        "mappers" : [
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 16,
+      "noteJumpStartBeatOffset" : -1.2,
+      "beatmapDataFilename" : "EasyStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "Neon Rhythm",
+  "_songSubName" : "CC0 • Tech",
+  "_songAuthorName" : "DURU-AI / CC0",
+  "_levelAuthorName" : "ClosedAi",
+  "_beatsPerMinute" : 180,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0.5,
+  "_previewStartTime" : 32,
+  "_previewDuration" : 16,
+  "_songFilename" : "song.ogg",
+  "_coverImageFilename" : "cover.png",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "DefaultEnvironment",
+    "GlassDesertEnvironment"
+  ],
+  "_colorSchemes" : [
+    {
+      "useOverride" : true,
+      "colorScheme" : {
+        "colorSchemeId" : "NeonRhythm",
+        "saberAColor" : {"r":1,"g":0.08,"b":0.3},
+        "saberBColor" : {"r":0.05,"g":0.55,"b":1},
+        "obstaclesColor" : {"r":0.55,"g":0.12,"b":0.9},
+        "environmentColor0" : {"r":0.9,"g":0.05,"b":0.35},
+        "environmentColor1" : {"r":0.1,"g":0.45,"b":1},
+        "environmentColor0Boost" : {"r":1,"g":0,"b":0.55},
+        "environmentColor1Boost" : {"r":0,"g":0.9,"b":1}
+      }
+    }
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 20.5,
+          "_noteJumpStartBeatOffset" : -0.35,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "TECH CHALLENGE 5",
+            "_information" : [
+              "Technical challenge map",
+              "180 BPM",
+              "Crossovers + wrist rolls + anchors",
+              "Arcs + chains + dodge walls"
+            ],
+            "_warnings" : [
+              "Fast 1/8-beat bursts",
+              "Technical crossovers"
+            ],
+            "_suggestions" : [
+              "Warm up first",
+              "Use practice mode below full speed"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_contributors" : [
+      {
+        "_name" : "Mi amigo scheferson",
+        "_role" : "",
+        "_iconPath" : ""
+      },
+      {
+        "_name" : "",
+        "_role" : "",
+        "_iconPath" : ""
+      }
+    ],
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

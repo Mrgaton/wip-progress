@@ -1,0 +1,231 @@
+{
+  "walls": 292,
+  "lighting_events": 2044,
+  "notes_preserved": 1134,
+  "bombs_preserved": 64,
+  "wall_clearance": "All walls x+w <= -1 or x >= 5; playing lanes [0,4] completely clear with one extra lane each side.",
+  "motifs": [
+    {
+      "beat": 5,
+      "section": "The remembrance",
+      "pattern": "intro: pilares abiertos"
+    },
+    {
+      "beat": 21,
+      "section": "The remembrance",
+      "pattern": "intro: pilares abiertos"
+    },
+    {
+      "beat": 37,
+      "section": "The remembrance",
+      "pattern": "intro: pilares abiertos"
+    },
+    {
+      "beat": 53,
+      "section": "The remembrance",
+      "pattern": "intro: pilares abiertos"
+    },
+    {
+      "beat": 69,
+      "section": "The remembrance",
+      "pattern": "intro: pilares abiertos"
+    },
+    {
+      "beat": 75,
+      "section": "The vivid remembrance",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 83,
+      "section": "The vivid remembrance",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 91,
+      "section": "The vivid remembrance",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 99,
+      "section": "The vivid remembrance",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 107,
+      "section": "The beginning of passion",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 115,
+      "section": "The beginning of passion",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 123,
+      "section": "The beginning of passion",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 131,
+      "section": "The beginning of passion",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 139,
+      "section": "Cool music",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 147,
+      "section": "Cool music",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 155,
+      "section": "Cool music",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 163,
+      "section": "Cool music",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 171,
+      "section": " Cool music 2",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 179,
+      "section": " Cool music 2",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 187,
+      "section": " Cool music 2",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 195,
+      "section": " Cool music 2",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 203,
+      "section": " Cool music 2",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 207,
+      "section": "Glowing up",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 215,
+      "section": "Glowing up",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 223,
+      "section": "Glowing up",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 231,
+      "section": "Glowing up",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 239,
+      "section": "The beginning of passion",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 247,
+      "section": "The beginning of passion",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 255,
+      "section": "The beginning of passion",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 263,
+      "section": "The beginning of passion",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 270.875,
+      "section": "The beginning of passion",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 275,
+      "section": "Cool music 3",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 283,
+      "section": "Cool music 3",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 291,
+      "section": "Cool music 3",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 299,
+      "section": "Cool music 3",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 307,
+      "section": "Cool music 3",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 311,
+      "section": "Cool music 2",
+      "pattern": "abanico hacia fuera"
+    },
+    {
+      "beat": 319,
+      "section": "Cool music 2",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 327,
+      "section": "Cool music 2",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 335,
+      "section": "Cool music 2",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 343,
+      "section": "Cool music 4",
+      "pattern": "onda de alturas"
+    },
+    {
+      "beat": 351,
+      "section": "Cool music 4",
+      "pattern": "respuesta izquierda-derecha"
+    },
+    {
+      "beat": 359,
+      "section": "Cool music 4",
+      "pattern": "marco lateral abierto"
+    },
+    {
+      "beat": 367,
+      "section": "Cool music 4",
+      "pattern": "abanico hacia fuera"
+    }
+  ],
+  "backup": "C:\\Users\\Mrgaton\\BSManager\\BSInstances\\1.39.1\\Beat Saber_Data\\CustomWIPLevels\\ROY BEE - Kiss Me Again\\backups\\before-lighting-20261011-170244.zip",
+  "vr_playtest": false
+}

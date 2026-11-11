@@ -1,0 +1,77 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "Kiss Me Againn",
+    "subTitle" : "",
+    "author" : "ROY BEE"
+  },
+  "audio" : {
+    "songFilename" : "ROYBEEKissMeAgain.ogg",
+    "songDuration" : 139.255,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 166.48,
+    "lufs" : 0,
+    "previewStartTime" : 12,
+    "previewDuration" : 10
+  },
+  "songPreviewFilename" : "ROYBEEKissMeAgain.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Lawless",
+      "difficulty" : "ExpertPlus",
+      "beatmapAuthors" : {
+        "mappers" : [
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 10,
+      "noteJumpStartBeatOffset" : -3.029,
+      "beatmapDataFilename" : "ExpertPlusLawless.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "difficultyLabel" : "dont even play this old and unfinished shit of mapp this is onlybad things"
+      }
+    },
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "Normal",
+      "beatmapAuthors" : {
+        "mappers" : [
+          "GlacinefroxGameplay"
+        ],
+        "lighters" : [
+          "Algo"
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 20,
+      "noteJumpStartBeatOffset" : -0.89,
+      "beatmapDataFilename" : "NormalStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat",
+      "customData" : {
+        "difficultyLabel" : "Muchos besitos",
+        "information" : [
+          "si has llegit això ets un cagoneta"
+        ]
+      }
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

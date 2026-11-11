@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: jaain-ge6gw
+created: 2026-08-12T17:43:05+02:00

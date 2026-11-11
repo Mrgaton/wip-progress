@@ -1,0 +1,52 @@
+{
+  "_version" : "2.1.0",
+  "_songName" : "POPPER!",
+  "_songSubName" : "(pero sin akri y tai)",
+  "_songAuthorName" : "AKRIILA ft TAICHU",
+  "_levelAuthorName" : "Straubreyyy",
+  "_beatsPerMinute" : 100,
+  "_songTimeOffset" : 0,
+  "_shuffle" : 0,
+  "_shufflePeriod" : 0,
+  "_previewStartTime" : 41.35,
+  "_previewDuration" : 12,
+  "_songFilename" : "POPPER_ - AKRIILA.egg",
+  "_coverImageFilename" : "maxresdefault-36279666.jpg",
+  "_environmentName" : "DefaultEnvironment",
+  "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
+  "_environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "_colorSchemes" : [
+  ],
+  "_difficultyBeatmapSets" : [
+    {
+      "_beatmapCharacteristicName" : "Standard",
+      "_difficultyBeatmaps" : [
+        {
+          "_difficulty" : "ExpertPlus",
+          "_difficultyRank" : 9,
+          "_beatmapFilename" : "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed" : 18,
+          "_noteJumpStartBeatOffset" : -0.166,
+          "_beatmapColorSchemeIdx" : 0,
+          "_environmentNameIdx" : 0,
+          "_customData" : {
+            "_difficultyLabel" : "HOT GAYS LISTEN TO AKRIILA",
+            "_colorRight" : {"r":0.598,"g":0.598,"b":0.598},
+            "_obstacleColor" : {"r":1,"g":1,"b":1},
+            "_envColorRight" : {"r":0.913,"g":0.872,"b":0.872}
+          }
+        }
+      ]
+    }
+  ],
+  "_customData" : {
+    "_editors" : {
+      "_lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

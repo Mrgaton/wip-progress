@@ -1,0 +1,43 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "ExpertPlus",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 4,
+      "label" : "AIS ON MI BAEBE",
+      "text" : "AIS ON MI BAEBE"
+    },
+    {
+      "beat" : 12.5,
+      "label" : "AIS ON MI BAEBE DOS",
+      "text" : "AIS ON MI BAEBE DOS"
+    },
+    {
+      "beat" : 21,
+      "label" : "AIS ON MI BAEBE TRES PERO CON TDH",
+      "text" : "AIS ON MI BAEBE TRES PERO CON TDH"
+    },
+    {
+      "beat" : 29,
+      "label" : "AIS ON MI MI MI",
+      "text" : "AIS ON MI MI MI"
+    },
+    {
+      "beat" : 36.75,
+      "label" : "PUNTITOS RICOS",
+      "text" : "PUNTITOS RICOS"
+    },
+    {
+      "beat" : 45,
+      "label" : "MADNESS",
+      "text" : "MADNESS"
+    },
+    {
+      "beat" : 77.5,
+      "label" : "WAIT IS HE COOKING? NOPE FALSE ALARM",
+      "text" : "WAIT IS HE COOKING? NOPE FALSE ALARM"
+    }
+  ]
+}

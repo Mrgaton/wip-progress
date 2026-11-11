@@ -1,0 +1,93 @@
+{
+  "backup": "C:\\Users\\Mrgaton\\BSManager\\BSInstances\\1.39.1\\Beat Saber_Data\\CustomWIPLevels\\ROY BEE - Kiss Me Again\\backups\\before-lighting-20261011-170244.zip",
+  "duration": 139.25558333333333,
+  "bpm_existing": 166.48,
+  "bpm_autocorrelation": 166.66666666666663,
+  "bpm_grid_fit": 166.47999999999774,
+  "onset_phase_seconds": 0.0,
+  "note_onset_error_median_ms": 16.73234022104708,
+  "note_onsets_within_60ms": 0.8995290423861853,
+  "sections": [
+    {
+      "start": 5,
+      "end": 75,
+      "name": "The remembrance",
+      "rms": 0.2433285415172577,
+      "onset": 0.027860570698976517,
+      "notes": 175
+    },
+    {
+      "start": 75,
+      "end": 107,
+      "name": "The vivid remembrance",
+      "rms": 0.48170235753059387,
+      "onset": 0.037095583975315094,
+      "notes": 103
+    },
+    {
+      "start": 107,
+      "end": 139,
+      "name": "The beginning of passion",
+      "rms": 0.46710002422332764,
+      "onset": 0.03828161954879761,
+      "notes": 103
+    },
+    {
+      "start": 139,
+      "end": 171,
+      "name": "Cool music",
+      "rms": 0.46793949604034424,
+      "onset": 0.03915911540389061,
+      "notes": 89
+    },
+    {
+      "start": 171,
+      "end": 207,
+      "name": " Cool music 2",
+      "rms": 0.4458106458187103,
+      "onset": 0.03855380043387413,
+      "notes": 108
+    },
+    {
+      "start": 207,
+      "end": 239,
+      "name": "Glowing up",
+      "rms": 0.48860323429107666,
+      "onset": 0.03325357288122177,
+      "notes": 92
+    },
+    {
+      "start": 239,
+      "end": 275,
+      "name": "The beginning of passion",
+      "rms": 0.4385664463043213,
+      "onset": 0.03484877198934555,
+      "notes": 127
+    },
+    {
+      "start": 275,
+      "end": 311,
+      "name": "Cool music 3",
+      "rms": 0.41554388403892517,
+      "onset": 0.0400213822722435,
+      "notes": 122
+    },
+    {
+      "start": 311,
+      "end": 343,
+      "name": "Cool music 2",
+      "rms": 0.4629809260368347,
+      "onset": 0.040772944688797,
+      "notes": 100
+    },
+    {
+      "start": 343,
+      "end": 375,
+      "name": "Cool music 4",
+      "rms": 0.4652622938156128,
+      "onset": 0.04096505418419838,
+      "notes": 116
+    }
+  ],
+  "method": "Spectral flux by frequency band; bass periodicity and grid fit. Mid band is not isolated vocals. Existing note timings and bookmarks retained."
+}
