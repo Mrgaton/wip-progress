@@ -15,7 +15,8 @@
   "_environmentName" : "DefaultEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
-    "DefaultEnvironment"
+    "DefaultEnvironment",
+    "TimbalandEnvironment"
   ],
   "_colorSchemes" : [
   ],
@@ -54,7 +55,7 @@
           "_noteJumpMovementSpeed" : 23,
           "_noteJumpStartBeatOffset" : -1.49,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0,
+          "_environmentNameIdx" : 1,
           "_customData" : {
             "_difficultyLabel" : "Tekkk + Glacine Collab "
           }
