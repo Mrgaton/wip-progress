@@ -15,7 +15,8 @@
   "_environmentName" : "DefaultEnvironment",
   "_allDirectionsEnvironmentName" : "GlassDesertEnvironment",
   "_environmentNames" : [
-    "DefaultEnvironment"
+    "DefaultEnvironment",
+    "TimbalandEnvironment"
   ],
   "_colorSchemes" : [
   ],
@@ -54,9 +55,21 @@
           "_noteJumpMovementSpeed" : 23,
           "_noteJumpStartBeatOffset" : -1.49,
           "_beatmapColorSchemeIdx" : 0,
-          "_environmentNameIdx" : 0,
+          "_environmentNameIdx" : 1,
           "_customData" : {
-            "_difficultyLabel" : "Tekkk + Glacine Collab "
+            "_difficultyLabel" : "Tekkk + Glacine Collab ",
+            "_suggestions" : [
+              "Chroma"
+            ],
+            "_colorLeft" : {"r":0.32,"g":0.32,"b":0.32},
+            "_colorRight" : {"r":0.283,"g":0.642,"b":1},
+            "_obstacleColor" : {"r":0.5,"g":0.5,"b":0.5},
+            "_envColorLeft" : {"r":0.098,"g":1,"b":0.638},
+            "_envColorRight" : {"r":0.253,"g":0.759,"b":0.738},
+            "_envColorWhite" : {"r":0.726,"g":0.726,"b":0.726},
+            "_envColorLeftBoost" : {"r":0.817,"g":0.123,"b":0.123},
+            "_envColorRightBoost" : {"r":0.253,"g":0.324,"b":0.759},
+            "_envColorWhiteBoost" : {"r":0.726,"g":0.726,"b":0.726}
           }
         }
       ]
